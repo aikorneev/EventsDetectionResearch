@@ -1,12 +1,8 @@
 import csv
-import math
-import numpy as np
 import sys
 from gensim import corpora, models
 from sklearn.feature_extraction.text import TfidfVectorizer
-from nltk.corpus import stopwords
 from gensim.models import LdaModel, LdaMulticore
-import pymorphy2
 
 if __name__ == '__main__':
     maxInt = sys.maxsize
