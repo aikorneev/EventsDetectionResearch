@@ -9,5 +9,5 @@ In order to detect new events authors of the most advanced solutions usually use
 This repository contains different scripts\notebooks\data related to the research of Event Detection Problem. 
 
 + **models_test** - small scripts for testing LDA and BERT models in the scope of event detection problem (not described well enough, mainly raw code).
-+ + **notebooks** - jupyter notebooks with different solutions related to Instagram and KudaGo data (described with own readme).
-+ + **scripts** - scripts for KudaGo data crawling, preprocessing and preparation for future analysis.
++ **notebooks** - jupyter notebooks with different solutions related to Instagram and KudaGo data (described with own readme).
++ **scripts** - scripts for KudaGo data crawling, preprocessing and preparation for future analysis.
